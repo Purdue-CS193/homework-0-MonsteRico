@@ -17,11 +17,13 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- COOL
 
 1. Numbered
 2. List
+3. NUMBERS
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text *is also italic* 
 
 [Link](url) and ![Image](src)
 ```
